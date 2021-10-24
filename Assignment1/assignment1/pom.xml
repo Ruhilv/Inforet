@@ -4,8 +4,8 @@
 
 	<groupId>ruhilv</groupId>
 	<artifactId>lucene</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<version>1.0.0</version>
+	<packaging>jar</packaging>
 
 	<dependencies>
         <dependency>
